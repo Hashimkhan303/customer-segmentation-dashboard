@@ -148,7 +148,7 @@ customer-segmentation-project/
 
 ### Page 1 — RFM Overview
 
-!\[Page 1](Screenshots/page1_overview..png)
+!\[Page 1](Screenshots/page1_overview.png)
 
 ### Page 2 — RFM Deep Dive
 
