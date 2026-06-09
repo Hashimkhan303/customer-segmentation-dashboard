@@ -1,0 +1,5 @@
+cluster,customers,avg_spend,avg_frequency,avg_recency,revenue_pct
+High Value,1470,9850.43,16.6,69.61,81.6
+Medium Value,1469,1445.58,4.77,155.23,12.0
+Low Value,1761,433.37,2.17,131.13,4.3
+Inactive,1178,319.69,1.47,523.15,2.1
