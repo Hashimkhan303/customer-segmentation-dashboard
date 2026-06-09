@@ -148,15 +148,15 @@ customer-segmentation-project/
 
 ### Page 1 — RFM Overview
 
-!\[Page 1](C:\\Users\\hp\\OneDrive\\Desktop\\customer-segmentation-project\\Screenshots\\page1\_overview..png)
+!\[Page 1](Screenshots/page1_overview..png)
 
 ### Page 2 — RFM Deep Dive
 
-!\[Page 2](C:\\Users\\hp\\OneDrive\\Desktop\\customer-segmentation-project\\Screenshots\\page2\_rfm\_deep\_dive.png)
+!\[Page 2](Screenshots/page2_rfm_deep_dive.png)
 
 ### Page 3 — Segment Strategy \& Action Plan
 
-!\[Page 3](C:\\Users\\hp\\OneDrive\\Desktop\\customer-segmentation-project\\Screenshots\\page3\_strategy.png)
+!\[Page 3](Screenshots/page3_strategy.png)
 
 \---
 
