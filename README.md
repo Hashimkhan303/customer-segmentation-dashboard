@@ -66,7 +66,7 @@ actions.
 ## 🖥️ Dashboard Pages
 
 ### Page 1 — RFM Overview
-![Page 1](Screenshots/page1_overview.png)
+![Page 1](Screenshots/page 1.png)
 
 ### Page 2 — RFM Deep Dive
 ![Page 2](Screenshots/page2_rfm_deep_dive.png)
