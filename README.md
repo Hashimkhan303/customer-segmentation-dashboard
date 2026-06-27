@@ -66,13 +66,13 @@ actions.
 ## 🖥️ Dashboard Pages
 
 ### Page 1 — RFM Overview
-![Page 1](Screenshots/page_1.png)
+![Page 1](Screenshots/page 1.png)
 
 ### Page 2 — RFM Deep Dive
-![Page 2](Screenshots/page_2.png)
+![Page 2](Screenshots/page 2.png)
 
 ### Page 3 — Segment Strategy and Action Plan
-![Page 3](Screenshots/page_3.png)
+![Page 3](Screenshots/page 3.png)
 
 ---
 
