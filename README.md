@@ -69,10 +69,10 @@ actions.
 ![Page 1](Screenshots/page 1.png)
 
 ### Page 2 — RFM Deep Dive
-![Page 2](Screenshots/page2_rfm_deep_dive.png)
+![Page 2](Screenshots/page_2.png)
 
 ### Page 3 — Segment Strategy and Action Plan
-![Page 3](Screenshots/page3_strategy.png)
+![Page 3](Screenshots/page_3.png)
 
 ---
 
